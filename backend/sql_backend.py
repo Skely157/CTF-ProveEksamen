@@ -12,7 +12,7 @@ conn = mariadb.connect(
 cur = conn.cursor()
 
 def sjekk_flagg():
-    by = input("Skriv inn navnet på byen du sjekker flagget for: ")
+    by = input("Skriv inn navnet på byen du sjekker flagget for (skriv inn by med små bokstaver): ")
     flagg = input("Skriv inn flagget du skal sjekke om er riktig: ")
     cur.execute("select * from flagg where name=%s and ctf_flagg=%s", (by, flagg))
     for row in cur:
