@@ -2,12 +2,11 @@
 
 Dette er en veiledning for de som prøver seg på JJ-CTF'en. Flaggene ligger noen ganger litt godt gjemt og det er noen feller å gå i.
 Men hvis du følger denne til punkt og prikke så skal det gå lett som en plett, og du kan finne alle sammen.
-Pluss et bonus flagg hvis du ikke vet om det fra før av 
 
 ## Flagget til Kyoto
 
 Når du kommer til hjemmesiden så naviger deg til Kyoto siden, ved å trykke på den blå Kyoto linken.
-Du ser ingenting med en gang du kommer inn, men hvis du markerer hele siden, så kommer det opp en hemmelig bedskjed.
+Du ser ingenting med en gang du kommer inn, men hvis du markerer hele siden, så kommer det opp en hemmelig beskjed.
 
 ![Kyoto-markert-side](kyoto_markering.png)
 
@@ -66,4 +65,3 @@ Godt jobbet!!
 ![finished](victory.png)
 
 Og om du skulle støte på noen problemer med å få gratulerer siden opp, så prøv å lime in flaggene en etter en inn på nytt, og trykke på submit uten å gå vekk fra hjemsiden hver gang
-
