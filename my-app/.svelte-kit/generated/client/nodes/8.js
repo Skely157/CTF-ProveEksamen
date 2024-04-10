@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/tokyo/du-MAA-se-her/+page.svelte";
